@@ -1,0 +1,7 @@
+m,stage,label,num_qubits,total_gates,two_qubit_gates,depth,two_qubit_depth
+1,pre,m=1 pre-transpile,7,62,33,48,31
+1,post,"m=1 post-transpile (ibm_fez, opt=1)",156,340,106,205,97
+2,pre,m=2 pre-transpile,14,124,66,91,59
+2,post,"m=2 post-transpile (ibm_fez, opt=1)",156,671,209,377,182
+3,pre,m=3 pre-transpile,21,186,99,134,87
+3,post,"m=3 post-transpile (ibm_fez, opt=1)",156,1018,318,556,271

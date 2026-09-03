@@ -1,0 +1,30 @@
+{
+  "circuit": "PCTC",
+  "m": 1,
+  "backend": "H2-1E",
+  "N_2q_logical": 18,
+  "N_1q_logical": 12,
+  "N_meas_logical": 3,
+  "N_gates_total_logical": 30,
+  "d_logical": 24,
+  "d_2q_logical": 8,
+  "gate_inventory_logical": {
+    "u": 2,
+    "swap": 2,
+    "h": 10,
+    "cx": 4,
+    "cz": 12
+  },
+  "n_qubits": 7,
+  "N_2q_compiled": 12,
+  "N_1q_compiled": 29,
+  "N_meas": 3,
+  "N_gates_total": 41,
+  "d_compiled": 18,
+  "d_2q_compiled": 8,
+  "gate_inventory": {
+    "OpType.PhasedX": 27,
+    "OpType.ZZPhase": 12,
+    "OpType.Rz": 2
+  }
+}

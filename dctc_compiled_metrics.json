@@ -1,0 +1,53 @@
+[
+  {
+    "m": 1,
+    "n_qubits": 7,
+    "N_2q_compiled": 28,
+    "N_1q_compiled": 156,
+    "N_meas": 3,
+    "N_gates_total": 187,
+    "d_compiled": 100,
+    "d_2q_compiled": 18,
+    "gate_inventory": {
+      "OpType.Rz": 78,
+      "OpType.PhasedX": 78,
+      "OpType.Barrier": 9,
+      "OpType.ZZPhase": 28,
+      "OpType.Measure": 3
+    }
+  },
+  {
+    "m": 2,
+    "n_qubits": 14,
+    "N_2q_compiled": 56,
+    "N_1q_compiled": 312,
+    "N_meas": 6,
+    "N_gates_total": 374,
+    "d_compiled": 190,
+    "d_2q_compiled": 18,
+    "gate_inventory": {
+      "OpType.Rz": 156,
+      "OpType.PhasedX": 156,
+      "OpType.Barrier": 16,
+      "OpType.ZZPhase": 56,
+      "OpType.Measure": 6
+    }
+  },
+  {
+    "m": 3,
+    "n_qubits": 21,
+    "N_2q_compiled": 84,
+    "N_1q_compiled": 468,
+    "N_meas": 9,
+    "N_gates_total": 561,
+    "d_compiled": 280,
+    "d_2q_compiled": 18,
+    "gate_inventory": {
+      "OpType.Rz": 234,
+      "OpType.PhasedX": 234,
+      "OpType.Barrier": 23,
+      "OpType.ZZPhase": 84,
+      "OpType.Measure": 9
+    }
+  }
+]
